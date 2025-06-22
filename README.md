@@ -10,5 +10,5 @@ A simple command-line calculator implemented in Julia.
 
 ## Usage
 ```bash
-julia command_line_calculator.jl
+julia calc.jl
 
